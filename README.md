@@ -1,2 +1,2 @@
 # git_test
-testing repository for github
+This is jarring2 first git project!
